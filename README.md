@@ -30,7 +30,7 @@ I specialize in developing:
 
 Let's connect and collaborate on exciting projects! Reach out to me via:
 
-- Email: contact@banideveloper.in
+- Email: contact@banideveloper.com
 - LinkedIn: https://www.linkedin.com/in/aabid-husain-1a5323274
 
 Feel free to explore my repositories below and don't hesitate to reach out if you have any questions or project ideas. Let's build the future together!
